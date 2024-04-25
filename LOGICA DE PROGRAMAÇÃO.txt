@@ -1,0 +1,45 @@
+LOGICA DE PROGRAMAÇÃO
+
+ATIVIDADES
+
+x=botafogo
+x1=flamengo 
+x3=botafogo
+
+Xresult=x1 is x3
+Xresult=x1is not x2
+Xresult=x1 is x3 
+Xresult=x2 is not x3 
+
+RESPOSTAS 
+
+Xresult = X1 é igual a X3
+Xresult = X1 não é igual a X2
+Xresult = X1 é igual a X3
+Xresult = X2 não é igual a X3
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+ATIVIDADES
+
+x= “banana" 
+
+x2 = “laranja“ 
+
+x3 = “abacaxi" 
+
+Xresult = x in frutas
+
+Xresult = x not in frutas
+
+Xresult = x2 not in frutas
+
+Xresult = x3 in frutas
+
+RESPOSTAS
+
+R=true
+R=false
+R=false
+
+------------------------------------------------------------------------------------------------------------------------------------------
+

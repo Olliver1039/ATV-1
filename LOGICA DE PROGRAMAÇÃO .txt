@@ -1,0 +1,89 @@
+LOGICA DE PROGRAMAÇÃO 
+
+OPERADORES
+os operadores sao simbolos especiais que tem a seguinte separação entre os 
+diferentes tipos de operadores
+
+*operasdores aritmeticos 
+*operadores de atribuiçao
+*operadores de comparaçao 
+*operadores logicos 
+*operadores de identidade
+*operadores de assiciaçao 
+
+X = 6 + 4 * 2
+X = 6 + 8
+X = 6 + 8
+X = 14
+
+
+
+X = (4 * 9 + 5)
+X = (36 + 5)
+X = (36 + 5)
+X = 41
+
+
+
+X = ((6 + 7) * 9)
+X = (13 * 9)
+X = (13 * 9)
+X = 117
+
+
+
+x = (15 + 20) - 30
+x = 35 - 30
+x = 35 - 30
+x = 5
+
+
+5 ** 2 = 25
+x = (6 + 25)
+x = 31
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+X += 5
+X = X + 5
+X = 8 + 5
+X = 13
+
+
+X_ = 4
+X = 4 então agora o valor de X será substituído por 4
+
+
+X *= 20
+X = X * 20
+X = 4 * 20
+X = 80
+
+
+X /= 2
+X = X / 2
+X = 80 / 2
+X = 40
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+X_Result = X < X1
+X1. Como X = 8 e X1 = 3
+X_Result = X < X1 e verdadeiro 
+
+
+X_Result = X == X1
+X1. Como X = 8 e X1 = 3
+X_Result = X == X1 é falso
+
+
+X_Result = X >= X1
+X1. Como X = 8 e X1 = 3
+X_Result = X >= X1 é verdadeiro
+
+
+X_Result = X != X1
+X = 8 e X1 = 3
+X_Result = X != X1 é verdadeiro
+
